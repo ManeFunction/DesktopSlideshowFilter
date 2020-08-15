@@ -2,6 +2,8 @@
 
 Very often, I set for my desktop wallpaper vast image collections with hundreds and thousands of pictures. And often it's hard as hell to find one picture to delete that pop up on your screen, and you don't like it. So I made a small console app for Windows that can take an actual picture's name from a registry for you so you can move it or even better, just delete it with a simple click!
 
+![screenshot](https://raw.githubusercontent.com/wiki/ManeFunction/desktop-slideshow-filter/Screenshot.png)
+
 There's even a .reg file to desktop context menu integration!
 
 **Don't forget to change a path to the .exe in it before adding!**
